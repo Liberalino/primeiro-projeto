@@ -6,14 +6,14 @@ function togglemode(){
     
         //subdtituir a imagem
  if(html.classList.contains('light')){
-    img.setAttribute("src","avatar-light.png") 
-    img.setAttribute("alt", "maike brito com fundo branco")
+    img.setAttribute("src","avatar2.png") 
+    img.setAttribute("alt", "carlos henrique com fundo branco")
            //se tiver ligth mode, adicionar a imagem light
  }else{
     
         // se tiver sem light mode, manter imagem normal 
-img.setAttribute("src","avatar.png")
-img.setAttribute("alt", "maike brito com fundo preto")
+img.setAttribute("src","avatar1.png")
+img.setAttribute("alt", "carlos henrique com fundo preto")
  }
  
  
